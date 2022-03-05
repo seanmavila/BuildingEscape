@@ -1,0 +1,17 @@
+﻿  Using 'git status' to determine working set for adaptive non-unity build (C:\Users\seana\Game Repos\UnrealEngine\BuildingEscape).
+  Parsing headers for BuildingEscapeEditor
+    Running UnrealHeaderTool "C:\Users\seana\Game Repos\UnrealEngine\BuildingEscape\BuildingEscape\BuildingEscape.uproject" "C:\Users\seana\Game Repos\UnrealEngine\BuildingEscape\BuildingEscape\Intermediate\Build\Win64\BuildingEscapeEditor\Development\BuildingEscapeEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\seana\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+  LogInit: Display: Loading text-based GConfig....
+  Reflection code generated for BuildingEscapeEditor in 3.6893674 seconds
+  Building BuildingEscapeEditor...
+  Using Visual Studio 2019 14.29.30136 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133) and Windows 10.0.19041.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+  Building 5 actions with 12 processes...
+    [1/5] WorldPosition.cpp
+    [2/5] WorldPosition.gen.cpp
+    [3/5] UE4Editor-BuildingEscape-0004.lib
+       Creating library C:\Users\seana\Game Repos\UnrealEngine\BuildingEscape\BuildingEscape\Intermediate\Build\Win64\UE4Editor\Development\BuildingEscape\UE4Editor-BuildingEscape-0004.lib and object C:\Users\seana\Game Repos\UnrealEngine\BuildingEscape\BuildingEscape\Intermediate\Build\Win64\UE4Editor\Development\BuildingEscape\UE4Editor-BuildingEscape-0004.exp
+    [4/5] UE4Editor-BuildingEscape-0004.dll
+       Creating library C:\Users\seana\Game Repos\UnrealEngine\BuildingEscape\BuildingEscape\Intermediate\Build\Win64\UE4Editor\Development\BuildingEscape\UE4Editor-BuildingEscape-0004.suppressed.lib and object C:\Users\seana\Game Repos\UnrealEngine\BuildingEscape\BuildingEscape\Intermediate\Build\Win64\UE4Editor\Development\BuildingEscape\UE4Editor-BuildingEscape-0004.suppressed.exp
+    [5/5] BuildingEscapeEditor.target
+  Total time in Parallel executor: 4.07 seconds
+  Total execution time: 8.56 seconds
